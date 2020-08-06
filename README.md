@@ -12,3 +12,12 @@ Build an application that makes personalized recommendation of music/songs for u
 - Recommend music via ML based on user pattern + features
 - Webapp + mobile
 - Incentivize users to meet face-to-face
+
+## - Communication
+
+- Live playlists - allows users to listen to others' playlists
+- Privacy - location, playlists, etc
+- "Hashtag" - (Location, mood,,etc)
+- Ranking System (most played playlists in a given "hashtag")
+- "DJ of the day"
+- Colors "Spectrum"

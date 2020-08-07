@@ -21,3 +21,5 @@ Build an application that makes personalized recommendation of music/songs for u
 - Ranking System (most played playlists in a given "hashtag")
 - "DJ of the day"
 - Colors "Spectrum"
+
+# Recommendation Framework Route
